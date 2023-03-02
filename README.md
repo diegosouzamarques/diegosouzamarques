@@ -108,13 +108,13 @@ Currently, I'm working with javascript frameworks to develop Front and Backend w
     </td>
     <td align="center" width="96">
       <a href="#master_tech">
-        <img src="./img/git.png" width="48" height="48" alt="Git" />
+        <img src="./img/git.png" width="54" height="54" alt="Git" />
       </a>
       <br>Git
     </td>      
     <td align="center" width="96">
       <a href="#master_tech">
-        <img src="./img/apache.png" width="60" height="48" alt="Apache" />
+        <img src="./img/apache.png" width="63" height="48" alt="Apache" />
       </a>
       <br>Apache
     </td>   
